@@ -1,0 +1,48 @@
+name: scrape SoC profs
+
+on:
+  schedule:
+    - cron: '39 * * * *'  # every hour at the 39th minutem just arbitrarily picked a number
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r scrapers/soc/requirements.txt
+
+    - name: Run scraper
+      run: python scrapers/soc/scrape.py
+
+    - name: Check for changes
+      id: git-check
+      run: |
+        git config --global user.name "kokrui"
+        git config --global user.email "kokruiwong@gmail.com"
+        if git diff --quiet scrapers/soc/soc.json; then
+          echo "CHANGED"
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "NO CHANGE"
+          git add scrapers/soc/soc.json
+          git commit -m "[bot] update soc.json"
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        env
+
+    - name: Push changes
+      if: steps.git-check.outputs.changed == 'true'
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
