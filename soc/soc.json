@@ -971,6 +971,8 @@
     ]
   },
   null,
+  null,
+  null,
   {
     "course_code": "CS3234",
     "course_title": "Logic for Proofs and Programs",
