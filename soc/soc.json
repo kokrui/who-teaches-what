@@ -361,7 +361,14 @@
   null,
   null,
   null,
-  null,
+  {
+    "course_code": "CP3108B",
+    "course_title": "Independent Work",
+    "semester": 2,
+    "professors": [
+      "Bimlesh WADHWA"
+    ]
+  },
   null,
   null,
   {
