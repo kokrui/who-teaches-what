@@ -2708,5 +2708,14 @@
     "professors": [
       "Anand Mohan RAMCHAND"
     ]
+  },
+  null,
+  {
+    "course_code": "TS1003",
+    "course_title": "Introduction to Computational Thinking and Problem Solving (CTPS) - Special",
+    "semester": 2,
+    "professors": [
+      "Daren LE"
+    ]
   }
 ]
