@@ -22,7 +22,8 @@
     "course_title": "Econometrics Modeling for Business Analytics",
     "semester": 1,
     "professors": [
-      "Varun KARAMSHETTY"
+      "LIM Jie, Freddy",
+      "Vikas Deep"
     ]
   },
   {
@@ -30,7 +31,7 @@
     "course_title": "Econometrics Modeling for Business Analytics",
     "semester": 2,
     "professors": [
-      "Nakyung KYUNG"
+      "Oleh Stupak"
     ]
   },
   {
@@ -66,14 +67,7 @@
       "JIN Chen"
     ]
   },
-  {
-    "course_code": "BT3102",
-    "course_title": "Computational Methods for Business Analytics",
-    "semester": 2,
-    "professors": [
-      "Aditya KARANAM"
-    ]
-  },
+  null,
   {
     "course_code": "BT3103",
     "course_title": "Application Systems Development for Business Analytics",
@@ -118,15 +112,15 @@
     ]
   },
   null,
+  null,
   {
     "course_code": "BT4014",
     "course_title": "Analytics Driven Design of Adaptive Systems",
-    "semester": 1,
+    "semester": 2,
     "professors": [
       "QIAO Dandan"
     ]
   },
-  null,
   {
     "course_code": "BT4015",
     "course_title": "Geospatial Analytics",
@@ -150,10 +144,9 @@
     "course_title": "Business Analytics Capstone Project",
     "semester": 1,
     "professors": [
-      "SETIONO, Rudy",
       "Shalinda ADIKARI",
-      "LEK Hsiang Hui",
-      "Prakash Chandra SUKHWAL"
+      "SETIONO, Rudy",
+      "Varun KARAMSHETTY"
     ]
   },
   {
@@ -162,9 +155,7 @@
     "semester": 2,
     "professors": [
       "TAN Swee Lin, Sharon",
-      "Shalinda ADIKARI",
-      "Frank XING",
-      "Prakash Chandra SUKHWAL"
+      "Shalinda ADIKARI"
     ]
   },
   null,
@@ -173,7 +164,7 @@
     "course_title": "Data-Driven Marketing",
     "semester": 2,
     "professors": [
-      "Vivek Sundar MAGESH"
+      "Vivek Magesh"
     ]
   },
   {
@@ -242,7 +233,8 @@
     "course_title": "Data Management and Warehousing",
     "semester": 1,
     "professors": [
-      "BRESSAN, Stephane"
+      "LEE Mong Li, Janice",
+      "Adi Yoga Sidi PRABAWA"
     ]
   },
   null,
@@ -314,8 +306,8 @@
     "course_title": "Computer Engineering Capstone Project",
     "semester": 1,
     "professors": [
-      "PEH Li Shiuan",
-      "Jithin VACHERY"
+      "Jithin VACHERY",
+      "PEH Li Shiuan"
     ]
   },
   {
@@ -323,8 +315,8 @@
     "course_title": "Computer Engineering Capstone Project",
     "semester": 2,
     "professors": [
-      "PEH Li Shiuan",
-      "Jithin VACHERY"
+      "Jithin VACHERY",
+      "PEH Li Shiuan"
     ]
   },
   null,
@@ -338,15 +330,6 @@
     ]
   },
   null,
-  {
-    "course_code": "CP2107",
-    "course_title": "Independent Introduction to CS Research (Odyssey)",
-    "semester": 1,
-    "professors": [
-      "Bimlesh WADHWA"
-    ]
-  },
-  null,
   null,
   {
     "course_code": "CP2201",
@@ -356,20 +339,14 @@
       "Victor NG"
     ]
   },
-  null,
-  null,
-  null,
-  null,
-  null,
   {
-    "course_code": "CP3108B",
-    "course_title": "Independent Work",
-    "semester": 2,
+    "course_code": "CP3100",
+    "course_title": "Information Systems and Analytics Research Methodology",
+    "semester": 1,
     "professors": [
-      "Bimlesh WADHWA"
+      "External teaching staff"
     ]
   },
-  null,
   null,
   {
     "course_code": "CP3201",
@@ -380,20 +357,13 @@
     ]
   },
   null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "course_code": "CS1010",
     "course_title": "Programming Methodology",
     "semester": 1,
     "professors": [
-      "OOI Wei Tsang",
-      "HAN Liang Wee Eric",
-      "Eldon CHUNG"
+      "Eldon CHUNG",
+      "Sriram SAMI"
     ]
   },
   {
@@ -413,15 +383,23 @@
       "Conghui HU"
     ]
   },
-  null,
+  {
+    "course_code": "CS1010A",
+    "course_title": "Programming Methodology",
+    "semester": 2,
+    "professors": [
+      "Conghui HU"
+    ]
+  },
   {
     "course_code": "CS1010E",
     "course_title": "Programming Methodology",
     "semester": 1,
     "professors": [
       "KHOO Siau Cheng",
-      "CHENG Holun",
-      "CHIA Wai Kit, Henry"
+      "CHIA Wai Kit, Henry",
+      "LOW Kok Lim",
+      "Muhammad Rizki Aulia Rahman MAULANA"
     ]
   },
   {
@@ -430,26 +408,15 @@
     "semester": 2,
     "professors": [
       "ZHOU Lifeng",
-      "CHENG Holun",
-      "Conghui HU"
+      "CHENG Holun"
     ]
   },
-  {
-    "course_code": "CS1010J",
-    "course_title": "Programming Methodology",
-    "semester": 1,
-    "professors": [
-      "ZHOU Lifeng"
-    ]
-  },
-  null,
   {
     "course_code": "CS1010S",
     "course_title": "Programming Methodology",
     "semester": 1,
     "professors": [
       "Nitya.Lakshmanan",
-      "Daren LER",
       "Ashish Deepak DANDEKAR"
     ]
   },
@@ -459,8 +426,7 @@
     "semester": 2,
     "professors": [
       "Ashish Deepak DANDEKAR",
-      "Daren LER",
-      "Adi Yoga Sidi PRABAWA"
+      "Amirhassan MONAJEMI"
     ]
   },
   null,
@@ -477,10 +443,9 @@
     "course_title": "Programming Methodology",
     "semester": 1,
     "professors": [
-      "LOW Kok Lim",
+      "HENZ, Martin J",
       "Boyd ANDERSON",
-      "Sanka RASNAYAKA",
-      "HENZ, Martin J"
+      "Sanka RASNAYAKA"
     ]
   },
   {
@@ -491,22 +456,8 @@
       "LOW Kok Lim"
     ]
   },
-  {
-    "course_code": "CS1231",
-    "course_title": "Discrete Structures",
-    "semester": 1,
-    "professors": [
-      "WONG Tin Lok"
-    ]
-  },
-  {
-    "course_code": "CS1231",
-    "course_title": "Discrete Structures",
-    "semester": 2,
-    "professors": [
-      "WONG Tin Lok"
-    ]
-  },
+  null,
+  null,
   {
     "course_code": "CS1231S",
     "course_title": "Discrete Structures",
@@ -514,9 +465,9 @@
     "professors": [
       "TAN Tuck Choy",
       "Ashish Deepak DANDEKAR",
-      "CHIN Wei Ngan",
       "Maciej Lukasz OBREMSKI",
-      "Eldon CHUNG"
+      "Eldon CHUNG",
+      "STEPHAN, Frank Christian"
     ]
   },
   {
@@ -559,8 +510,7 @@
     "professors": [
       "OOI Wei Tsang",
       "Boyd ANDERSON",
-      "Ashish Deepak DANDEKAR",
-      "Enzio KAM Hai Hong"
+      "Ashish Deepak DANDEKAR"
     ]
   },
   {
@@ -569,8 +519,8 @@
     "semester": 1,
     "professors": [
       "Roger ZIMMERMANN",
-      "Anandha GOPALAN",
-      "Sanka RASNAYAKA"
+      "Sanka RASNAYAKA",
+      "LOW Kok Lim"
     ]
   },
   {
@@ -580,8 +530,7 @@
     "professors": [
       "Sanka RASNAYAKA",
       "Roger ZIMMERMANN",
-      "Rajendra Prasad SIRIGINA",
-      "CHONG Ket Fah"
+      "Rajendra Prasad SIRIGINA"
     ]
   },
   {
@@ -597,7 +546,7 @@
     "course_title": "Data Structures and Algorithms",
     "semester": 2,
     "professors": [
-      "CHENG Holun"
+      "Steven HALIM"
     ]
   },
   {
@@ -614,10 +563,9 @@
     "semester": 2,
     "professors": [
       "LEONG Wing Lup, Ben",
-      "Lin SHAO",
-      "Muhammad Rizki Aulia Rahman MAULANA",
+      "Eldon CHUNG",
       "Diptarka CHAKRABORTY",
-      "Eldon CHUNG"
+      "Lin SHAO"
     ]
   },
   {
@@ -626,8 +574,8 @@
     "semester": 1,
     "professors": [
       "Weng-Fai WONG",
-      "TAN Tuck Choy",
-      "Anandha GOPALAN"
+      "Anandha GOPALAN",
+      "TAN Tuck Choy"
     ]
   },
   {
@@ -639,28 +587,13 @@
       "Prabhu NATARAJAN"
     ]
   },
-  {
-    "course_code": "CS2101",
-    "course_title": "Effective Communication for Computing Professionals",
-    "semester": 1,
-    "professors": [
-      "CELC Lecturers"
-    ]
-  },
-  {
-    "course_code": "CS2101",
-    "course_title": "Effective Communication for Computing Professionals",
-    "semester": 2,
-    "professors": [
-      "CELC Lecturers"
-    ]
-  },
+  null,
+  null,
   {
     "course_code": "CS2102",
     "course_title": "Database Systems",
     "semester": 1,
     "professors": [
-      "BRESSAN, Stephane",
       "Christian Von Der Weth",
       "Adi Yoga Sidi PRABAWA"
     ]
@@ -671,8 +604,8 @@
     "semester": 2,
     "professors": [
       "Xiaokui XIAO",
-      "Adi Yoga Sidi PRABAWA",
-      "JIANG KAN"
+      "Bryan HOOI Kuen-Yew",
+      "Adi Yoga Sidi PRABAWA"
     ]
   },
   {
@@ -681,7 +614,6 @@
     "semester": 1,
     "professors": [
       "Damith Chatura RAJAPAKSE",
-      "Prabhu NATARAJAN",
       "Michael D. ADAMS"
     ]
   },
@@ -691,19 +623,15 @@
     "semester": 2,
     "professors": [
       "Damith Chatura RAJAPAKSE",
-      "HAN Liang Wee Eric",
       "Ganesh NEELAKANTA IYER"
     ]
   },
-  null,
-  null,
   {
     "course_code": "CS2103T",
     "course_title": "Software Engineering",
     "semester": 1,
     "professors": [
       "Damith Chatura RAJAPAKSE",
-      "Prabhu NATARAJAN",
       "Michael D. ADAMS"
     ]
   },
@@ -713,7 +641,6 @@
     "semester": 2,
     "professors": [
       "Damith Chatura RAJAPAKSE",
-      "HAN Liang Wee Eric",
       "Ganesh NEELAKANTA IYER"
     ]
   },
@@ -722,7 +649,7 @@
     "course_title": "Programming Language Concepts",
     "semester": 1,
     "professors": [
-      "HENZ, Martin J"
+      "Olivier DANVY"
     ]
   },
   null,
@@ -760,7 +687,8 @@
     "semester": 2,
     "professors": [
       "TAN Keng Yan, Colin",
-      "Anandha GOPALAN"
+      "Anandha GOPALAN",
+      "SOO Yuen Jien"
     ]
   },
   {
@@ -768,7 +696,8 @@
     "course_title": "Introduction to Information Security",
     "semester": 1,
     "professors": [
-      "CHANG Ee-Chien"
+      "CHANG Ee-Chien",
+      "Nitya.Lakshmanan"
     ]
   },
   {
@@ -795,8 +724,7 @@
     "professors": [
       "Muhammad Rizki Aulia Rahman MAULANA",
       "Patrick REBENTROST",
-      "Conghui HU",
-      "HAN Liang Wee Eric"
+      "Conghui HU"
     ]
   },
   {
@@ -805,8 +733,8 @@
     "semester": 2,
     "professors": [
       "Muhammad Rizki Aulia Rahman MAULANA",
-      "Conghui HU",
-      "Patrick REBENTROST"
+      "Patrick REBENTROST",
+      "Conghui HU"
     ]
   },
   {
@@ -835,6 +763,16 @@
   },
   null,
   {
+    "course_code": "CS2251",
+    "course_title": "Optimization and Regression",
+    "semester": 1,
+    "professors": [
+      "Divesh AGGARWAL",
+      "Maciej Lukasz OBREMSKI"
+    ]
+  },
+  null,
+  {
     "course_code": "CS2309",
     "course_title": "CS Research Methodology",
     "semester": 1,
@@ -853,28 +791,11 @@
   },
   null,
   {
-    "course_code": "CS3203",
-    "course_title": "Software Engineering Project",
-    "semester": 1,
-    "professors": [
-      "Ganesh NEELAKANTA IYER"
-    ]
-  },
-  {
-    "course_code": "CS3203",
-    "course_title": "Software Engineering Project",
-    "semester": 2,
-    "professors": [
-      "Ganesh NEELAKANTA IYER"
-    ]
-  },
-  {
     "course_code": "CS3210",
     "course_title": "Parallel Computing",
     "semester": 1,
     "professors": [
-      "Cristina CARBUNARU",
-      "Sriram SAMI"
+      "Cristina CARBUNARU"
     ]
   },
   {
@@ -903,15 +824,6 @@
       "Manuel RIGGER"
     ]
   },
-  {
-    "course_code": "CS3216",
-    "course_title": "Software Product Engineering for Digital Markets",
-    "semester": 1,
-    "professors": [
-      "SOO Yuen Jien"
-    ]
-  },
-  null,
   null,
   {
     "course_code": "CS3217",
@@ -930,8 +842,23 @@
       "Akshay NARAYAN"
     ]
   },
-  null,
-  null,
+  {
+    "course_code": "CS3219",
+    "course_title": "Software Engineering Principles and Patterns",
+    "semester": 2,
+    "professors": [
+      "Bimlesh WADHWA",
+      "Akshay NARAYAN"
+    ]
+  },
+  {
+    "course_code": "CS3223",
+    "course_title": "Database Systems Implementation",
+    "semester": 1,
+    "professors": [
+      "CHAN Chee Yong"
+    ]
+  },
   {
     "course_code": "CS3223",
     "course_title": "Database Systems Implementation",
@@ -945,8 +872,9 @@
     "course_title": "Design and Analysis of Algorithms",
     "semester": 1,
     "professors": [
-      "Steven HALIM",
-      "Yi-Jun CHANG"
+      "Yi-Jun CHANG",
+      "Prashant Nalini VASUDEVAN",
+      "Steven HALIM"
     ]
   },
   {
@@ -956,7 +884,7 @@
     "professors": [
       "JAIN, Sanjay",
       "Warut SUKSOMPONG",
-      "HAN Liang Wee Eric"
+      "CHEN Yu"
     ]
   },
   {
@@ -978,14 +906,12 @@
     ]
   },
   null,
-  null,
-  null,
   {
     "course_code": "CS3234",
     "course_title": "Logic for Proofs and Programs",
     "semester": 2,
     "professors": [
-      "Olivier DANVY"
+      "Abhik ROYCHOUDHURY"
     ]
   },
   {
@@ -993,6 +919,7 @@
     "course_title": "Computer Security",
     "semester": 1,
     "professors": [
+      "ZHANG Jiaheng",
       "Prateek SAXENA"
     ]
   },
@@ -1010,7 +937,7 @@
     "course_title": "Introduction to Information Theory",
     "semester": 2,
     "professors": [
-      "Rahul JAIN"
+      "Jonathan Mark SCARLETT"
     ]
   },
   {
@@ -1044,7 +971,7 @@
     "course_title": "Computer Graphics",
     "semester": 1,
     "professors": [
-      "LOW Kok Lim"
+      "CHENG Holun"
     ]
   },
   null,
@@ -1110,6 +1037,15 @@
     ]
   },
   {
+    "course_code": "CS3249",
+    "course_title": "User Interface Development",
+    "semester": 1,
+    "professors": [
+      "LEE Yi-Chieh"
+    ]
+  },
+  null,
+  {
     "course_code": "CS3263",
     "course_title": "Foundations of Artificial Intelligence",
     "semester": 1,
@@ -1141,6 +1077,15 @@
       "LOW Kian Hsiang"
     ]
   },
+  {
+    "course_code": "CS3268",
+    "course_title": "Responsible AI: From Algorithms to Impact",
+    "semester": 1,
+    "professors": [
+      "Akshay NARAYAN"
+    ]
+  },
+  null,
   null,
   {
     "course_code": "CS3281",
@@ -1164,10 +1109,17 @@
     "course_title": "Formal Methods for Software Engineering",
     "semester": 1,
     "professors": [
-      "JIANG KAN"
+      "Umang MATHUR"
     ]
   },
-  null,
+  {
+    "course_code": "CS4211",
+    "course_title": "Formal Methods for Software Engineering",
+    "semester": 2,
+    "professors": [
+      "DONG Jin Song"
+    ]
+  },
   {
     "course_code": "CS4212",
     "course_title": "Compiler Design",
@@ -1183,7 +1135,7 @@
     "course_title": "Programming Language Implementation",
     "semester": 2,
     "professors": [
-      "HENZ, Martin J"
+      "Michael D. ADAMS"
     ]
   },
   {
@@ -1241,15 +1193,6 @@
   },
   null,
   {
-    "course_code": "CS4224",
-    "course_title": "Distributed Databases",
-    "semester": 1,
-    "professors": [
-      "CHAN Chee Yong"
-    ]
-  },
-  null,
-  {
     "course_code": "CS4225",
     "course_title": "Big Data Systems for Data Science",
     "semester": 1,
@@ -1282,7 +1225,7 @@
     "course_title": "Foundations of Modern Cryptography",
     "semester": 2,
     "professors": [
-      "Prashant Nalini VASUDEVAN"
+      "Rahul JAIN"
     ]
   },
   null,
@@ -1299,7 +1242,7 @@
     "course_title": "Optimisation Algorithms",
     "semester": 1,
     "professors": [
-      "Divesh AGGARWAL"
+      "Diptarka CHAKRABORTY"
     ]
   },
   null,
@@ -1312,7 +1255,14 @@
     ]
   },
   null,
-  null,
+  {
+    "course_code": "CS4238",
+    "course_title": "Computer Security Practice",
+    "semester": 1,
+    "professors": [
+      "Prasanna Karthik VAIRAM"
+    ]
+  },
   {
     "course_code": "CS4238",
     "course_title": "Computer Security Practice",
@@ -1339,15 +1289,6 @@
       "Anand BHOJAN"
     ]
   },
-  null,
-  {
-    "course_code": "CS4242",
-    "course_title": "Social Media Computing",
-    "semester": 2,
-    "professors": [
-      "CHUA Tat Seng"
-    ]
-  },
   {
     "course_code": "CS4243",
     "course_title": "Computer Vision and Pattern Recognition",
@@ -1361,7 +1302,7 @@
     "course_title": "Computer Vision and Pattern Recognition",
     "semester": 2,
     "professors": [
-      "Amirhassan MONAJEMI"
+      "YAO Yingjie Angela"
     ]
   },
   {
@@ -1369,17 +1310,16 @@
     "course_title": "AI Planning and Decision Making",
     "semester": 1,
     "professors": [
-      "LEONG Tze Yun",
+      "LEONG Tze Yun"
+    ]
+  },
+  {
+    "course_code": "CS4246",
+    "course_title": "AI Planning and Decision Making",
+    "semester": 2,
+    "professors": [
+      "LING Chun Kai",
       "Muhammad Rizki Aulia Rahman MAULANA"
-    ]
-  },
-  {
-    "course_code": "CS4246",
-    "course_title": "AI Planning and Decision Making",
-    "semester": 2,
-    "professors": [
-      "Akshay NARAYAN",
-      "LING Chun Kai"
     ]
   },
   null,
@@ -1426,15 +1366,24 @@
     ]
   },
   null,
+  null,
+  {
+    "course_code": "CS4268",
+    "course_title": "Quantum Computing",
+    "semester": 2,
+    "professors": [
+      "Divesh AGGARWAL"
+    ]
+  },
+  null,
   {
     "course_code": "CS4269",
     "course_title": "Fundamentals of Logic in Computer Science",
-    "semester": 1,
+    "semester": 2,
     "professors": [
       "Umang MATHUR"
     ]
   },
-  null,
   null,
   {
     "course_code": "CS4277",
@@ -1505,7 +1454,14 @@
       "Jialin LI"
     ]
   },
-  null,
+  {
+    "course_code": "CS5224",
+    "course_title": "Cloud Computing",
+    "semester": 1,
+    "professors": [
+      "Anandha GOPALAN"
+    ]
+  },
   {
     "course_code": "CS5224",
     "course_title": "Cloud Computing",
@@ -1539,15 +1495,6 @@
     ]
   },
   null,
-  null,
-  {
-    "course_code": "CS5230",
-    "course_title": "Computational Complexity",
-    "semester": 2,
-    "professors": [
-      "STEPHAN, Frank Christian"
-    ]
-  },
   {
     "course_code": "CS5231",
     "course_title": "Systems Security",
@@ -1557,6 +1504,15 @@
     ]
   },
   null,
+  null,
+  {
+    "course_code": "CS5232",
+    "course_title": "Formal Specification and Design Techniques",
+    "semester": 2,
+    "professors": [
+      "Ilya SERGEY"
+    ]
+  },
   null,
   {
     "course_code": "CS5233",
@@ -1571,7 +1527,7 @@
     "course_title": "Algorithms at Scale",
     "semester": 1,
     "professors": [
-      "Diptarka CHAKRABORTY"
+      "CHEN Yu"
     ]
   },
   null,
@@ -1598,7 +1554,8 @@
     "course_title": "Neural Networks and Deep Learning",
     "semester": 1,
     "professors": [
-      "Yang YOU"
+      "Yang YOU",
+      "Kenji KAWAGUCHI"
     ]
   },
   {
@@ -1633,8 +1590,7 @@
     "course_title": "Neural Networks and Deep Learning II",
     "semester": 2,
     "professors": [
-      "Yang YOU",
-      "Michael Shieh"
+      "Yang YOU"
     ]
   },
   null,
@@ -1652,7 +1608,7 @@
     "course_title": "The Algorithm Designer's Toolkit",
     "semester": 2,
     "professors": [
-      "Jonathan Mark SCARLETT"
+      "Yi-Jun CHANG"
     ]
   },
   {
@@ -1682,15 +1638,6 @@
     ]
   },
   null,
-  null,
-  {
-    "course_code": "CS5330",
-    "course_title": "Randomized Algorithms",
-    "semester": 2,
-    "professors": [
-      "Yi-Jun CHANG"
-    ]
-  },
   null,
   {
     "course_code": "CS5332",
@@ -1725,6 +1672,15 @@
       "Harold SOH Soon Hong"
     ]
   },
+  null,
+  {
+    "course_code": "CS5343",
+    "course_title": "Advanced Computer Animation",
+    "semester": 2,
+    "professors": [
+      "WANG Bohan"
+    ]
+  },
   {
     "course_code": "CS5344",
     "course_title": "Big-Data Analytics Technology",
@@ -1738,7 +1694,7 @@
     "course_title": "Big-Data Analytics Technology",
     "semester": 2,
     "professors": [
-      "LEE Mong Li, Janice"
+      "TUNG Kum Hoe Anthony"
     ]
   },
   null,
@@ -1747,7 +1703,16 @@
     "course_title": "Information Visualisation",
     "semester": 2,
     "professors": [
-      "Bimlesh WADHWA"
+      "LEE Yi-Chieh"
+    ]
+  },
+  null,
+  {
+    "course_code": "CS5421",
+    "course_title": "Database Applications Design and Tuning",
+    "semester": 2,
+    "professors": [
+      "LU Yao"
     ]
   },
   null,
@@ -1760,15 +1725,6 @@
       "Jingxian WANG"
     ]
   },
-  {
-    "course_code": "CS5424",
-    "course_title": "Distributed Databases",
-    "semester": 1,
-    "professors": [
-      "CHAN Chee Yong"
-    ]
-  },
-  null,
   {
     "course_code": "CS5425",
     "course_title": "Big Data Systems for Data Science",
@@ -1793,7 +1749,7 @@
     "course_title": "Foundations of Modern Cryptography",
     "semester": 2,
     "professors": [
-      "Prashant Nalini VASUDEVAN"
+      "Rahul JAIN"
     ]
   },
   {
@@ -1810,8 +1766,7 @@
     "course_title": "AI Planning and Decision Making",
     "semester": 1,
     "professors": [
-      "LEONG Tze Yun",
-      "Muhammad Rizki Aulia Rahman MAULANA"
+      "LEONG Tze Yun"
     ]
   },
   {
@@ -1819,8 +1774,8 @@
     "course_title": "AI Planning and Decision Making",
     "semester": 2,
     "professors": [
-      "Akshay NARAYAN",
-      "LING Chun Kai"
+      "LING Chun Kai",
+      "Muhammad Rizki Aulia Rahman MAULANA"
     ]
   },
   {
@@ -1832,15 +1787,15 @@
     ]
   },
   null,
+  null,
   {
     "course_code": "CS5469",
     "course_title": "Fundamentals of Logic in Computer Science",
-    "semester": 1,
+    "semester": 2,
     "professors": [
       "Umang MATHUR"
     ]
   },
-  null,
   null,
   {
     "course_code": "CS5477",
@@ -1877,15 +1832,6 @@
     ]
   },
   null,
-  {
-    "course_code": "CS6203",
-    "course_title": "Advanced Topics in Database Systems",
-    "semester": 1,
-    "professors": [
-      "OOI Beng Chin"
-    ]
-  },
-  null,
   null,
   {
     "course_code": "CS6204",
@@ -1901,7 +1847,7 @@
     "course_title": "Advanced Topics in Human-Computer Interaction",
     "semester": 2,
     "professors": [
-      "LEE Yi-Chieh"
+      "E Jane Little"
     ]
   },
   null,
@@ -1921,12 +1867,14 @@
       "LING Chun Kai"
     ]
   },
+  null,
+  null,
   {
-    "course_code": "CS6208",
-    "course_title": "Advanced Topics in Artificial Intelligence",
+    "course_code": "CS6212",
+    "course_title": "Topics in Media",
     "semester": 2,
     "professors": [
-      "Reza SHOKRI"
+      "Mike SHOU"
     ]
   },
   null,
@@ -1946,32 +1894,30 @@
       "LU Yao"
     ]
   },
+  {
+    "course_code": "CS6216",
+    "course_title": "Advanced Topics in Machine Learning",
+    "semester": 2,
+    "professors": [
+      "Michael Shieh"
+    ]
+  },
   null,
   {
     "course_code": "CS6217",
     "course_title": "Topics in Prog. Languages & Software Engineering",
-    "semester": 1,
-    "professors": [
-      "Umang MATHUR"
-    ]
-  },
-  null,
-  null,
-  {
-    "course_code": "CS6220",
-    "course_title": "Advanced Topics in Data Mining",
     "semester": 2,
     "professors": [
-      "TUNG Kum Hoe Anthony"
+      "Olivier DANVY"
     ]
   },
   null,
   {
-    "course_code": "CS6222",
-    "course_title": "Advanced Topics in Computational Biology",
+    "course_code": "CS6218",
+    "course_title": "Principles of Prog. Languages & Software Engineering",
     "semester": 2,
     "professors": [
-      "Yang ZHANG"
+      "DONG Jin Song"
     ]
   },
   {
@@ -1988,28 +1934,10 @@
     "course_title": "Advanced Topics in Security and Privacy",
     "semester": 1,
     "professors": [
-      "ZHANG Jiaheng"
+      "YAP Hock Chuan, Roland"
     ]
   },
   null,
-  {
-    "course_code": "CS6234",
-    "course_title": "Advanced Algorithms",
-    "semester": 1,
-    "professors": [
-      "Divesh AGGARWAL"
-    ]
-  },
-  null,
-  null,
-  {
-    "course_code": "CS6235",
-    "course_title": "Advanced Topics in Theoretical Computer Science",
-    "semester": 2,
-    "professors": [
-      "CHEN Yu"
-    ]
-  },
   null,
   {
     "course_code": "CS6240",
@@ -2019,6 +1947,15 @@
       "CHUA Tat Seng"
     ]
   },
+  {
+    "course_code": "CS6241",
+    "course_title": "Advanced Topics in Computer Graphics",
+    "semester": 1,
+    "professors": [
+      "WANG Bohan"
+    ]
+  },
+  null,
   null,
   {
     "course_code": "CS6244",
@@ -2028,15 +1965,6 @@
       "David HSU"
     ]
   },
-  {
-    "course_code": "CS6280",
-    "course_title": "Topics in Computer Science: Deep Learning with Language Applications",
-    "semester": 1,
-    "professors": [
-      "Michael Shieh"
-    ]
-  },
-  null,
   {
     "course_code": "FT5001",
     "course_title": "Fintech Innovations for Consumers",
@@ -2100,23 +2028,24 @@
       "Shashank Shekhar TRIPATHI"
     ]
   },
+  null,
+  null,
   {
     "course_code": "GEI1000",
     "course_title": "Computational Thinking",
     "semester": 1,
     "professors": [
       "LEOW Wee Kheng",
-      "Bimlesh WADHWA"
+      "Bimlesh WADHWA",
+      "AI Xin"
     ]
   },
-  null,
-  null,
   {
-    "course_code": "IFS4101",
-    "course_title": "Legal Aspects of Information Security",
+    "course_code": "GEI1000",
+    "course_title": "Computational Thinking",
     "semester": 2,
     "professors": [
-      "Zaid Hamzah"
+      "AI Xin"
     ]
   },
   null,
@@ -2133,13 +2062,13 @@
     "course_title": "Information Security Capstone Project.",
     "semester": 1,
     "professors": [
-      "Nitya.Lakshmanan"
+      "Ganesh NEELAKANTA IYER"
     ]
   },
   null,
   {
     "course_code": "IS1108",
-    "course_title": "Digital Ethics and Data Privacy",
+    "course_title": "Digital and AI Ethics",
     "semester": 1,
     "professors": [
       "LEE Boon Kee"
@@ -2147,7 +2076,7 @@
   },
   {
     "course_code": "IS1108",
-    "course_title": "Digital Ethics and Data Privacy",
+    "course_title": "Digital and AI Ethics",
     "semester": 2,
     "professors": [
       "LEE Boon Kee"
@@ -2169,11 +2098,9 @@
       "YANG Lu"
     ]
   },
-  null,
-  null,
   {
     "course_code": "IS2102",
-    "course_title": "Enterprise Systems Architecture and Design",
+    "course_title": "Requirements Analysis for Business IT Systems",
     "semester": 1,
     "professors": [
       "LEK Hsiang Hui"
@@ -2181,14 +2108,23 @@
   },
   null,
   {
-    "course_code": "IS2103",
-    "course_title": "Enterprise Systems Server-side Design and Development",
+    "course_code": "IS2108",
+    "course_title": "Full-stack Software Engineering for AI Solutions I",
     "semester": 1,
     "professors": [
       "TAN Wee Kek"
     ]
   },
   null,
+  null,
+  {
+    "course_code": "IS2109",
+    "course_title": "AI and Machine Learning Techniques I",
+    "semester": 2,
+    "professors": [
+      "LI Guijie"
+    ]
+  },
   {
     "course_code": "IS2218",
     "course_title": "Digital Platforms for Business",
@@ -2202,7 +2138,7 @@
     "course_title": "Digital Platforms for Business",
     "semester": 2,
     "professors": [
-      "Vivek Sundar MAGESH"
+      "Vivek Magesh"
     ]
   },
   {
@@ -2223,7 +2159,7 @@
   },
   {
     "course_code": "IS3103",
-    "course_title": "Information Systems Leadership and Communication",
+    "course_title": "Digital Transformation and Leadership Communication",
     "semester": 1,
     "professors": [
       "OH Lih Bin"
@@ -2231,19 +2167,10 @@
   },
   {
     "course_code": "IS3103",
-    "course_title": "Information Systems Leadership and Communication",
+    "course_title": "Digital Transformation and Leadership Communication",
     "semester": 2,
     "professors": [
       "OH Lih Bin"
-    ]
-  },
-  null,
-  {
-    "course_code": "IS3106",
-    "course_title": "Enterprise Systems Interface Design and Development",
-    "semester": 2,
-    "professors": [
-      "LEK Hsiang Hui"
     ]
   },
   {
@@ -2251,7 +2178,7 @@
     "course_title": "Data Engineering",
     "semester": 1,
     "professors": [
-      "Frank XING"
+      "LEK Hsiang Hui"
     ]
   },
   {
@@ -2262,15 +2189,24 @@
       "ZHAO Yiliang"
     ]
   },
+  null,
+  {
+    "course_code": "IS3108",
+    "course_title": "Full-stack Software Engineering for AI Solutions II",
+    "semester": 2,
+    "professors": [
+      "LEK Hsiang Hui"
+    ]
+  },
+  null,
   {
     "course_code": "IS3150",
     "course_title": "Digital Media Marketing",
-    "semester": 1,
+    "semester": 2,
     "professors": [
       "LAI Kok Fung"
     ]
   },
-  null,
   {
     "course_code": "IS3221",
     "course_title": "ERP Systems with Analytics Solutions",
@@ -2308,16 +2244,16 @@
     ]
   },
   {
-    "course_code": "IS4103",
-    "course_title": "Information Systems Capstone Project",
+    "course_code": "IS4108",
+    "course_title": "AI Solutioning Capstone Project",
     "semester": 1,
     "professors": [
       "TAN Wee Kek"
     ]
   },
   {
-    "course_code": "IS4103",
-    "course_title": "Information Systems Capstone Project",
+    "course_code": "IS4108",
+    "course_title": "AI Solutioning Capstone Project",
     "semester": 2,
     "professors": [
       "LEK Hsiang Hui"
@@ -2346,7 +2282,7 @@
     "course_title": "Information Technologies in Financial Services",
     "semester": 1,
     "professors": [
-      "LI Xiaofan"
+      "Nicholas Mac Gregor GARCIA"
     ]
   },
   {
@@ -2390,6 +2326,7 @@
     "course_title": "Cloud Services and Infrastructure Management",
     "semester": 2,
     "professors": [
+      "External",
       "EE Kiam Keong"
     ]
   },
@@ -2408,18 +2345,18 @@
     "course_title": "Social Media Network Analysis",
     "semester": 2,
     "professors": [
-      "HENG Cheng Suang"
-    ]
-  },
-  {
-    "course_code": "IS4242",
-    "course_title": "Intelligent Systems and Techniques",
-    "semester": 1,
-    "professors": [
-      "Aditya KARANAM"
+      "Kyung Nakyung"
     ]
   },
   null,
+  {
+    "course_code": "IS4243",
+    "course_title": "Digital Transformation Consulting",
+    "semester": 2,
+    "professors": [
+      "External teaching staf"
+    ]
+  },
   {
     "course_code": "IS4246",
     "course_title": "Smart Systems and AI Governance",
@@ -2470,7 +2407,7 @@
     "course_title": "Blockchain and Distributed Ledger Technologies",
     "semester": 1,
     "professors": [
-      "Nicholas Mac Gregor GARCIA"
+      "LI Xiaofan"
     ]
   },
   {
@@ -2478,7 +2415,7 @@
     "course_title": "Blockchain and Distributed Ledger Technologies",
     "semester": 2,
     "professors": [
-      "LI Xiaofan"
+      "Nicholas Mac Gregor GARCIA"
     ]
   },
   null,
@@ -2492,6 +2429,42 @@
   },
   null,
   {
+    "course_code": "IS4400",
+    "course_title": "Human-AI Interaction",
+    "semester": 2,
+    "professors": [
+      "CUI Wei"
+    ]
+  },
+  {
+    "course_code": "IS4401",
+    "course_title": "Generative AI and Business Applications",
+    "semester": 1,
+    "professors": [
+      "YEO Wee Kiang"
+    ]
+  },
+  null,
+  null,
+  {
+    "course_code": "IS4402",
+    "course_title": "Machine Learning with Unstructured Data",
+    "semester": 2,
+    "professors": [
+      "LEE Jiho"
+    ]
+  },
+  null,
+  {
+    "course_code": "IS5002",
+    "course_title": "Digital Transformation",
+    "semester": 2,
+    "professors": [
+      "TAN Chuan Hoo"
+    ]
+  },
+  null,
+  {
     "course_code": "IS5003",
     "course_title": "Platform Design and Economy",
     "semester": 2,
@@ -2499,22 +2472,13 @@
       "Varun KARAMSHETTY"
     ]
   },
+  null,
   {
     "course_code": "IS5005",
     "course_title": "Digital Engagement",
-    "semester": 1,
-    "professors": [
-      "HENG Cheng Suang"
-    ]
-  },
-  null,
-  null,
-  {
-    "course_code": "IS5006",
-    "course_title": "Human-Centred Intelligent Systems",
     "semester": 2,
     "professors": [
-      "Suranga NANAYAKKARA"
+      "HENG Cheng Suang"
     ]
   },
   {
@@ -2545,6 +2509,15 @@
     ]
   },
   {
+    "course_code": "IS5010",
+    "course_title": "AI Ethics and Governance",
+    "semester": 1,
+    "professors": [
+      "Jungpil HAHN"
+    ]
+  },
+  null,
+  {
     "course_code": "IS5116",
     "course_title": "Digital Entrepreneurship",
     "semester": 1,
@@ -2566,7 +2539,7 @@
     "course_title": "Hands-on with Applied Analytics",
     "semester": 2,
     "professors": [
-      "Stanley KOK"
+      "Prakash Chandra SUKHWAL"
     ]
   },
   {
@@ -2624,6 +2597,15 @@
     ]
   },
   {
+    "course_code": "IS6002",
+    "course_title": "Quantitative Methods for IS Research",
+    "semester": 1,
+    "professors": [
+      "TAN Chuan Hoo"
+    ]
+  },
+  null,
+  {
     "course_code": "IS6003",
     "course_title": "Contemporary Theories for IS Research",
     "semester": 1,
@@ -2650,15 +2632,6 @@
       "QIAO Dandan"
     ]
   },
-  {
-    "course_code": "IS6101",
-    "course_title": "Topics in Machine Learning and Optimization",
-    "semester": 1,
-    "professors": [
-      "VAIBHAV Rajan"
-    ]
-  },
-  null,
   {
     "course_code": "IT1244",
     "course_title": "Artificial Intelligence: Technology and Impact",
@@ -2707,15 +2680,6 @@
     "semester": 2,
     "professors": [
       "Anand Mohan RAMCHAND"
-    ]
-  },
-  null,
-  {
-    "course_code": "TS1003",
-    "course_title": "Introduction to Computational Thinking and Problem Solving (CTPS) - Special",
-    "semester": 2,
-    "professors": [
-      "Daren LE"
     ]
   }
 ]
