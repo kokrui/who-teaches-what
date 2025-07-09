@@ -319,8 +319,6 @@
       "PEH Li Shiuan"
     ]
   },
-  null,
-  null,
   {
     "course_code": "CP2106",
     "course_title": "Independent Software Development Project (Orbital)",
@@ -1989,7 +1987,7 @@
     "course_title": "Blockchain Innovations",
     "semester": 2,
     "professors": [
-      "Nicholas Mac Gregor GARCIA"
+      "LI Xiaofan"
     ]
   },
   null,
@@ -2326,8 +2324,7 @@
     "course_title": "Cloud Services and Infrastructure Management",
     "semester": 2,
     "professors": [
-      "External",
-      "EE Kiam Keong"
+      "External"
     ]
   },
   {
