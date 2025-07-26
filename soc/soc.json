@@ -2031,6 +2031,15 @@
     ]
   },
   null,
+  {
+    "course_code": "FT5011",
+    "course_title": "Deep Learning for Finance",
+    "semester": 2,
+    "professors": [
+      "Stanley KO"
+    ]
+  },
+  null,
   null,
   {
     "course_code": "GEI1000",
