@@ -921,7 +921,8 @@
     "course_title": "Computer Security",
     "semester": 2,
     "professors": [
-      "ZHANG Jiaheng"
+      "ZHANG Jiaheng",
+      "LIANG Zhenkai"
     ]
   },
   null,
@@ -1619,7 +1620,8 @@
     "course_title": "Network Security",
     "semester": 2,
     "professors": [
-      "LIANG Zhenkai"
+      "LIANG Zhenkai",
+      "ZHANG Jiaheng"
     ]
   },
   {
