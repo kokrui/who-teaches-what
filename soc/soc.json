@@ -756,17 +756,6 @@
   },
   null,
   {
-    "course_code": "CS2251",
-    "course_title": "Optimization and Regression",
-    "semester": 1,
-    "professors": [
-      "Divesh AGGARWAL",
-      "Maciej Lukasz OBREMSKI",
-      "Exam: 01 DEC 2025 17:00-19:0"
-    ]
-  },
-  null,
-  {
     "course_code": "CS2309",
     "course_title": "CS Research Methodology",
     "semester": 1,
@@ -2033,7 +2022,14 @@
       "Stanley KO"
     ]
   },
-  null,
+  {
+    "course_code": "FT5012",
+    "course_title": "Risk, Security and Compliance in Banking and Finance",
+    "semester": 1,
+    "professors": [
+      "KOK Chun Hong"
+    ]
+  },
   null,
   {
     "course_code": "GEI1000",
@@ -2685,5 +2681,14 @@
     "professors": [
       "Anand Mohan RAMCHAND"
     ]
-  }
+  },
+  {
+    "course_code": "MSI5001",
+    "course_title": "Introduction to AI: Concepts, Applications, and Evaluation",
+    "semester": 1,
+    "professors": [
+      "Prabhu NATARAJAN"
+    ]
+  },
+  null
 ]
