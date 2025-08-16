@@ -331,15 +331,6 @@
     ]
   },
   {
-    "course_code": "CP3100",
-    "course_title": "Information Systems and Analytics Research Methodology",
-    "semester": 1,
-    "professors": [
-      "External teaching staf"
-    ]
-  },
-  null,
-  {
     "course_code": "CP3201",
     "course_title": "Industry Seminar",
     "semester": 1,
@@ -2327,7 +2318,8 @@
     "course_title": "Cloud Services and Infrastructure Management",
     "semester": 2,
     "professors": [
-      "External"
+      "External",
+      "EE Kiam Keong"
     ]
   },
   {
