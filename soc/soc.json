@@ -438,7 +438,14 @@
       "LOW Kok Lim"
     ]
   },
-  null,
+  {
+    "course_code": "CS1231",
+    "course_title": "Discrete Structures",
+    "semester": 1,
+    "professors": [
+      "WONG Tin Lok"
+    ]
+  },
   null,
   {
     "course_code": "CS1231S",
@@ -1823,7 +1830,7 @@
     "course_title": "Advanced Topics in Human-Computer Interaction",
     "semester": 2,
     "professors": [
-      "Jane E"
+      "E Jane Little"
     ]
   },
   null,
@@ -1843,7 +1850,14 @@
       "LING Chun Kai"
     ]
   },
-  null,
+  {
+    "course_code": "CS6208",
+    "course_title": "Advanced Topics in Artificial Intelligence",
+    "semester": 2,
+    "professors": [
+      "TAN Zhi Xua"
+    ]
+  },
   null,
   {
     "course_code": "CS6212",
