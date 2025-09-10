@@ -321,6 +321,15 @@
     ]
   },
   null,
+  {
+    "course_code": "CP2107",
+    "course_title": "Independent Introduction to CS Research (Odyssey)",
+    "semester": 1,
+    "professors": [
+      "Bimlesh WADHWA"
+    ]
+  },
+  null,
   null,
   {
     "course_code": "CP2201",
