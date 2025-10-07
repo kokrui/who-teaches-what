@@ -455,7 +455,14 @@
       "WONG Tin Lok"
     ]
   },
-  null,
+  {
+    "course_code": "CS1231",
+    "course_title": "Discrete Structures",
+    "semester": 2,
+    "professors": [
+      "LI Wei"
+    ]
+  },
   {
     "course_code": "CS1231S",
     "course_title": "Discrete Structures",
