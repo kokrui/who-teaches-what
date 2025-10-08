@@ -1169,7 +1169,7 @@
     "course_title": "Database Applications Design and Tuning",
     "semester": 2,
     "professors": [
-      "LU Yao"
+      "Adi Yoga Sidi PRABAWA"
     ]
   },
   null,
@@ -1302,6 +1302,15 @@
     "semester": 2,
     "professors": [
       "YAO Yingjie Angela"
+    ]
+  },
+  null,
+  {
+    "course_code": "CS4245",
+    "course_title": "Machine Learning Systems",
+    "semester": 2,
+    "professors": [
+      "LU Ya"
     ]
   },
   {
@@ -1712,7 +1721,7 @@
     "course_title": "Database Applications Design and Tuning",
     "semester": 2,
     "professors": [
-      "LU Yao"
+      "Adi Yoga Sidi PRABAWA"
     ]
   },
   null,
