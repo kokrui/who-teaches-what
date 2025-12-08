@@ -1304,15 +1304,6 @@
       "Angela YAO"
     ]
   },
-  null,
-  {
-    "course_code": "CS4245",
-    "course_title": "Machine Learning Systems",
-    "semester": 2,
-    "professors": [
-      "LU Ya"
-    ]
-  },
   {
     "course_code": "CS4246",
     "course_title": "AI Planning and Decision Making",
@@ -1374,6 +1365,15 @@
     ]
   },
   null,
+  null,
+  {
+    "course_code": "CS4262",
+    "course_title": "Machine Learning Systems",
+    "semester": 2,
+    "professors": [
+      "LU Ya"
+    ]
+  },
   null,
   {
     "course_code": "CS4268",
@@ -1798,6 +1798,15 @@
   null,
   null,
   {
+    "course_code": "CS5462",
+    "course_title": "Machine Learning Systems",
+    "semester": 2,
+    "professors": [
+      "LU Ya"
+    ]
+  },
+  null,
+  {
     "course_code": "CS5469",
     "course_title": "Fundamentals of Logic in Computer Science",
     "semester": 2,
@@ -1979,6 +1988,24 @@
     "semester": 2,
     "professors": [
       "David HSU"
+    ]
+  },
+  null,
+  {
+    "course_code": "CS6281",
+    "course_title": "Topics in Computer Science: Inference Algorithms in Deep Generative Models",
+    "semester": 2,
+    "professors": [
+      "Anji LIU"
+    ]
+  },
+  null,
+  {
+    "course_code": "CS6282",
+    "course_title": "Topics in Computer Science: AI meets Science - Science-Inspired AI and AI for Science",
+    "semester": 2,
+    "professors": [
+      "BIAN Yatao"
     ]
   },
   {
