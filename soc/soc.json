@@ -311,7 +311,14 @@
     ]
   },
   null,
-  null,
+  {
+    "course_code": "CP1008",
+    "course_title": "Learning with Generative AI Tools",
+    "semester": 2,
+    "professors": [
+      "TAN Wee Kek"
+    ]
+  },
   {
     "course_code": "CP2106",
     "course_title": "Independent Software Development Project (Orbital)",
