@@ -816,7 +816,7 @@
   null,
   {
     "course_code": "CS3211",
-    "course_title": "Parallel and Concurrent Programming",
+    "course_title": "Concurrent Programming",
     "semester": 2,
     "professors": [
       "Cristina CARBUNARU"
