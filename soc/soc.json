@@ -589,7 +589,7 @@
     "course_title": "Computer Organisation",
     "semester": 1,
     "professors": [
-      "Weng-Fai Wong",
+      "Weng-Fai WONG",
       "Anandha GOPALAN",
       "Tan Tuck Choy"
     ]
@@ -610,7 +610,7 @@
     "course_title": "Database Systems",
     "semester": 1,
     "professors": [
-      "Christian Von Der Weth",
+      "Christian VON DER WETH",
       "Adi Yoga Sidi Prabawa"
     ]
   },
@@ -629,7 +629,7 @@
     "course_title": "Software Engineering",
     "semester": 1,
     "professors": [
-      "Damith Chatura Rajapakse",
+      "Damith Chatura RAJAPAKSE",
       "Michael D. ADAMS",
       "Prabhu NATARAJAN"
     ]
@@ -639,7 +639,7 @@
     "course_title": "Software Engineering",
     "semester": 2,
     "professors": [
-      "Damith Chatura Rajapakse",
+      "Damith Chatura RAJAPAKSE",
       "Ganesh NEELAKANTA IYER"
     ]
   },
@@ -648,7 +648,7 @@
     "course_title": "Software Engineering",
     "semester": 1,
     "professors": [
-      "Damith Chatura Rajapakse",
+      "Damith Chatura RAJAPAKSE",
       "Michael D. ADAMS",
       "Prabhu NATARAJAN"
     ]
@@ -658,7 +658,7 @@
     "course_title": "Software Engineering",
     "semester": 2,
     "professors": [
-      "Damith Chatura Rajapakse",
+      "Damith Chatura RAJAPAKSE",
       "Ganesh NEELAKANTA IYER"
     ]
   },
@@ -1101,7 +1101,7 @@
     "course_title": "Thematic Systems Project I",
     "semester": 2,
     "professors": [
-      "Damith Chatura Rajapakse"
+      "Damith Chatura RAJAPAKSE"
     ]
   },
   null,
@@ -1110,7 +1110,7 @@
     "course_title": "Thematic Systems Project II",
     "semester": 2,
     "professors": [
-      "Damith Chatura Rajapakse"
+      "Damith Chatura RAJAPAKSE"
     ]
   },
   {
@@ -1354,7 +1354,7 @@
     "semester": 2,
     "professors": [
       "KAN Min-Yen",
-      "Christian Von Der Weth"
+      "Christian VON DER WETH"
     ]
   },
   null,
@@ -1493,7 +1493,7 @@
     "course_title": "Knowledge Discovery and Data Mining",
     "semester": 1,
     "professors": [
-      "Christian Von Der Weth"
+      "Christian VON DER WETH"
     ]
   },
   {
@@ -1590,7 +1590,7 @@
     "course_title": "Text Mining",
     "semester": 2,
     "professors": [
-      "Christian Von Der Weth"
+      "Christian VON DER WETH"
     ]
   },
   null,
@@ -1599,7 +1599,7 @@
     "course_title": "Advanced Operating Systems",
     "semester": 2,
     "professors": [
-      "Weng-Fai Wong"
+      "Weng-Fai WONG"
     ]
   },
   null,
