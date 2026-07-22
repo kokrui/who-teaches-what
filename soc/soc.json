@@ -400,15 +400,15 @@
     ]
   },
   null,
+  null,
   {
     "course_code": "CP4284",
     "course_title": "Emerging Topics in Computing IV: Large Language Model Reasoning Agents",
-    "semester": 1,
+    "semester": 2,
     "professors": [
-      "Qizhe XIE"
+      "Qizhe XI"
     ]
   },
-  null,
   {
     "course_code": "CP4285",
     "course_title": "Emerging Topics in Computing V: Modern Recommendation Systems",
@@ -1382,7 +1382,7 @@
     "course_title": "Computer Vision and Pattern Recognition",
     "semester": 1,
     "professors": [
-      "Amirhassan Monajemi"
+      "Angela Yao"
     ]
   },
   {
@@ -1390,7 +1390,7 @@
     "course_title": "Computer Vision and Pattern Recognition",
     "semester": 2,
     "professors": [
-      "Angela Yao"
+      "Amirhassan Monajemi"
     ]
   },
   {
