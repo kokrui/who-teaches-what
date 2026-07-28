@@ -2872,5 +2872,14 @@
       "Prabhu NATARAJAN"
     ]
   },
+  null,
+  {
+    "course_code": "TIC2001",
+    "course_title": "Data Structures and Algorithms",
+    "semester": 1,
+    "professors": [
+      "TAN Sun Teck"
+    ]
+  },
   null
 ]
