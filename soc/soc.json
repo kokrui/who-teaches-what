@@ -137,7 +137,8 @@
     "professors": [
       "Shalinda ADIKARI",
       "SETIONO, Rudy",
-      "Anand Mohan RAMCHAND"
+      "Anand Mohan RAMCHAND",
+      "OH Hyelim"
     ]
   },
   {
@@ -355,15 +356,6 @@
       "Victor NG"
     ]
   },
-  {
-    "course_code": "CP3100",
-    "course_title": "Information Systems and Analytics Research Methodology",
-    "semester": 1,
-    "professors": [
-      "External teaching staff"
-    ]
-  },
-  null,
   {
     "course_code": "CP3201",
     "course_title": "Industry Seminar for Computing",
