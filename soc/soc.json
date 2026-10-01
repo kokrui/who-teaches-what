@@ -1186,14 +1186,7 @@
       "Umang MATHUR"
     ]
   },
-  {
-    "course_code": "CS4211",
-    "course_title": "Formal Methods for Software Engineering",
-    "semester": 2,
-    "professors": [
-      "DONG Jin Son"
-    ]
-  },
+  null,
   null,
   {
     "course_code": "CS4212",
@@ -1546,15 +1539,6 @@
     "semester": 2,
     "professors": [
       "YAP Hock Chuan, Roland"
-    ]
-  },
-  null,
-  {
-    "course_code": "CS5219",
-    "course_title": "Automated Software Validation",
-    "semester": 2,
-    "professors": [
-      "DONG Jin Song"
     ]
   },
   {
