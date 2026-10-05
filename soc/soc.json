@@ -348,14 +348,7 @@
   },
   null,
   null,
-  {
-    "course_code": "CP2201",
-    "course_title": "Journey of the Innovator",
-    "semester": 2,
-    "professors": [
-      "Victor NG"
-    ]
-  },
+  null,
   {
     "course_code": "CP3201",
     "course_title": "Industry Seminar for Computing",
