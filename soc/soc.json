@@ -950,7 +950,14 @@
       "ZHAO Jin"
     ]
   },
-  null,
+  {
+    "course_code": "CS3227",
+    "course_title": "Agentic Software Engineering",
+    "semester": 2,
+    "professors": [
+      "ZHAO Ji"
+    ]
+  },
   {
     "course_code": "CS3230",
     "course_title": "Design and Analysis of Algorithms",
