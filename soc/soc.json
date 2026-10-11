@@ -644,7 +644,8 @@
     "course_title": "Computer Organisation",
     "semester": 2,
     "professors": [
-      "TAN Tuck Choy"
+      "TAN Tuck Choy",
+      "JIANG Wenqi"
     ]
   },
   {
@@ -826,7 +827,8 @@
     "semester": 2,
     "professors": [
       "Prabhu NATARAJAN",
-      "Akshay NARAYAN"
+      "Akshay NARAYAN",
+      "Anis Bin Yusof"
     ]
   },
   {
@@ -975,7 +977,8 @@
     "semester": 2,
     "professors": [
       "Steven HALIM",
-      "CHEN Yu"
+      "CHEN Yu",
+      "Rucha Ravi KULKARNI"
     ]
   },
   {
@@ -2215,10 +2218,18 @@
     "course_title": "Penetration Testing Practice",
     "semester": 1,
     "professors": [
-      "Hugh ANDERSON"
+      "Hugh ANDERSON",
+      "Anis Bin Yusof"
     ]
   },
-  null,
+  {
+    "course_code": "IFS4103",
+    "course_title": "Penetration Testing Practice",
+    "semester": 2,
+    "professors": [
+      "Anis Bin Yuso"
+    ]
+  },
   {
     "course_code": "IFS4205",
     "course_title": "Information Security Capstone Project.",
