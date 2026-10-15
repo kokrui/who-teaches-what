@@ -1051,14 +1051,7 @@
       "Bimlesh WADHWA"
     ]
   },
-  {
-    "course_code": "CS3240",
-    "course_title": "Interaction Design",
-    "semester": 2,
-    "professors": [
-      "Bimlesh WADHWA"
-    ]
-  },
+  null,
   {
     "course_code": "CS3241",
     "course_title": "Computer Graphics",
