@@ -2131,15 +2131,6 @@
   },
   null,
   {
-    "course_code": "FT5004",
-    "course_title": "Programming for Blockchain Applications",
-    "semester": 2,
-    "professors": [
-      "External teaching staf"
-    ]
-  },
-  null,
-  {
     "course_code": "FT5005",
     "course_title": "Machine Learning for Finance",
     "semester": 2,
