@@ -2174,6 +2174,15 @@
     ]
   },
   null,
+  null,
+  {
+    "course_code": "FT5014",
+    "course_title": "AI Risk in the Financial Sector",
+    "semester": 2,
+    "professors": [
+      "External teaching staff"
+    ]
+  },
   {
     "course_code": "GEI1000",
     "course_title": "Computational Thinking",
