@@ -355,7 +355,14 @@
       "TAN Swee Lin, Sharon"
     ]
   },
-  null,
+  {
+    "course_code": "CP3201",
+    "course_title": "Industry Seminar for Computing",
+    "semester": 2,
+    "professors": [
+      "TAN Swee Lin, Sharo"
+    ]
+  },
   {
     "course_code": "CP4281",
     "course_title": "Emerging Topics in Computing I: AI for Graphics",
